@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+    color: #fff;
+}
+
+.menu button {
+    padding: 0.3rem;
+    margin: 0.4rem;
+}
+
+.parrafo {
+    position: relative;
+}
